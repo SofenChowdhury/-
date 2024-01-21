@@ -4,8 +4,8 @@ import Zoom from "react-reveal/Zoom";
 import { Fade } from "react-reveal";
 import { Link } from "react-router-dom";
 import { HiArrowRight } from "react-icons/hi";
-import HSC from "../../images/hsc.png";
-import SSC from "../../images/ssc.png";
+// import HSC from "../../images/hsc.png";
+// import SSC from "../../images/ssc.png";
 // Import other certificate images (BSC, SPCSN, SPSC) similarly
 
 export default function Certification() {
@@ -25,10 +25,10 @@ export default function Certification() {
             <Fade bottom duration={1000} distance="20px">
               <div className="cert-card">
                 <div className="content">
-                  <a href={HSC} target="_blank" rel="noopener noreferrer">
+                  <a href={""} target="_blank" rel="noopener noreferrer">
                     <div className="content-overlay"></div>
                     <div className="cert-header" style={{ backgroundColor: "white" }}>
-                      <img className="logo_img" src={HSC} alt="HSC Certificate" />
+                      <img className="logo_img" src={"HSC"} alt="HSC Certificate" />
                     </div>
                     <div className="content-details fadeIn-top">
                       <h3 className="content-title" style={{ color: "black" }}>
