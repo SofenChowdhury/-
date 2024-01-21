@@ -1,8 +1,8 @@
 import React, { useState,useRef, useEffect } from "react";
 import { Navbar, Nav, Container, Button, ButtonToolbar } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import { CgBulb, CgGitFork, CgSize } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
+// import { CgBulb, CgGitFork, CgSize } from "react-icons/cg";
+// import { ImBlog } from "react-icons/im";
 import { AiOutlineSend } from 'react-icons/ai';
 import {
   AiFillStar,
@@ -12,7 +12,7 @@ import {
 import { FaBlog, FaHackerrank, FaMobile, FaMobileAlt, FaStackOverflow } from "react-icons/fa";
 import "../../style.css";
 import { CgFileDocument } from "react-icons/cg";
-import { DiGithub, DiStackoverflow } from "react-icons/di";
+// import { DiGithub, DiStackoverflow } from "react-icons/di";
 import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
 import { FaLinkedinIn, FaFacebookF, FaGoogle } from "react-icons/fa";
 // import React, { useRef, useState } from "react";
