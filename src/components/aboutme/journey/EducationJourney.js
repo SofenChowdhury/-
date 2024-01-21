@@ -15,7 +15,7 @@ function EducationJourney() {
         <Link className="btn btn-primary m-1" to="/educationjourney">
           Educational Journey
         </Link>
-        <Link className="btn btn-primary m-1" to="/experiencejourney">
+        {/* <Link className="btn btn-primary m-1" to="/experiencejourney">
           Experience Journey
         </Link>
         <Link className="btn btn-primary m-1" to="/technicaljourney">
@@ -23,7 +23,7 @@ function EducationJourney() {
         </Link>
         <Link className="btn btn-primary m-1" to="/projectjourney">
           Project Journey
-        </Link>
+        </Link> */}
       </div>
       <div className="mt-5">
         <Flip top cascade>
