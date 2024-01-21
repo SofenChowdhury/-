@@ -18,9 +18,9 @@ export default function AboutmeContainer() {
                     </Col>
                     <Col ms={12} className="mt-3 d-flex flex-column">
                         <div>
-                            <Nav justify variant="tabs" defaultActiveKey="/">
+                            <Nav justify variant="tabs" defaultActiveKey="/portfolio-me">
                             <Nav.Item className="Navitem">
-                                <Nav.Link as={Link} to="portfolio-me" eventKey="link-1" style={{ fontSize: "17px",fontWeight:700 }}>About</Nav.Link>
+                                <Nav.Link as={Link} to="" eventKey="link-1" style={{ fontSize: "17px",fontWeight:700 }}>About</Nav.Link>
                             </Nav.Item>
                             <Nav.Item>
                                 <Nav.Link as={Link} to="technicalskill" eventKey="link-2" style={{ fontSize: "17px",fontWeight:700 }}>Skills</Nav.Link>
