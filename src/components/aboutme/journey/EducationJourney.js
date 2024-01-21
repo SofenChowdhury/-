@@ -31,25 +31,23 @@ function EducationJourney() {
         </Flip>
       </div>
       <VerticalTimeline>
-        <VerticalTimelineElement
+      <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="2010 - 2016"
+          date="2019 - 2023"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
-          <h4 className="vertical-timeline-element-title">
-            SECONDARY SCHOOL CERTIFICATE
-          </h4>
+          <h4 className="vertical-timeline-element-title">UNDERGRADUATION</h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-            Shaheed Police Smrity College
+            American International University - Bangladesh
           </h4>
           <p>
-            Studied here from Class 5 to 10th as a part of secondary school
-            Certificate and gain GPA 5 in my SSC Examination.
+            Studied  in Computer Science and Enginnering from American International University and gain CGPA 3.25.
           </p>
         </VerticalTimelineElement>
+        
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
@@ -62,26 +60,30 @@ function EducationJourney() {
             HIGHER SECONDARY SCHOOL CERTIFICATE
           </h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-          Studied here from Class 11 to 12th as a part of higher secondary school
-            Certificate and gain GPA 4.67 in my HSC Examination.
+            Lion's School & College
           </h4>
           <p>
+            Studied here from Class 11 to 12th as a part of Higher Secondary School Certificate and gain GPA 4.30 in my HSC Examination.
           </p>
         </VerticalTimelineElement>
+        
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="2019 - 2023"
+          date="2010 - 2016"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
-          <h4 className="vertical-timeline-element-title">GRADUATION</h4>
+          <h4 className="vertical-timeline-element-title">
+            SECONDARY SCHOOL CERTIFICATE
+          </h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-            North South University, Dhaka
+            Sunflower School & College
           </h4>
           <p>
-          Studied  in Computer Science and Enginnering from North South University and gain CGPA 3.25.
+            Studied here from Class 5 to 10th as a part of secondary school
+            Certificate and gain GPA 5.69 in my SSC Examination.
           </p>
         </VerticalTimelineElement>
 

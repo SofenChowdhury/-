@@ -37,7 +37,7 @@ export default function Projects() {
                   
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                    Fair Mart
+                    FairMart e-Commerce
                     </h5>
                     <img src={"https://fairgroup.s3.ap-southeast-1.amazonaws.com/public/assets/front/images/fairmartLogo.png"} alt={"https://fairgroup.s3.ap-southeast-1.amazonaws.com/public/assets/front/images/fairmartLogo.png"} />
                     <div className="project--showcaseBtn">
@@ -178,6 +178,65 @@ export default function Projects() {
                             </div>
                           </Fade>
                         </Col>
+                        <Col md={3}>
+              <Fade bottom>
+                <div
+                  key={1}
+                  className="singleProject"
+                  style={{
+                    // backgroundColor: "rgb(142 70 186 / 31%)",
+                    border: "1px solid",
+                  }}
+                >
+                  
+                  <div className="projectContent">
+                    <h5 id={"first"} style={{ color: "#fbd9ad" }}>
+                    Shah Cement
+                    </h5>
+                    <img src={"https://www.shahcement.com/assets/images/logo.png"} alt={"https://www.shahcement.com/assets/images/logo.png"} />
+                    <div className="project--showcaseBtn">
+                      <a
+                        href={
+                          "https://www.shahcement.com/"
+                        }
+                        target="_blank"
+                        rel="noreferrer"
+                        className={"iconBtn"}
+                        aria-labelledby={`code`}
+                      >
+                        <FaCode
+                          id={`code`}
+                          className={"icon"}
+                          aria-label="Code"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  {/* <h6>
+                    <p
+                      className="project--desc"
+                      style={{
+                        background: "#fbd9ad",
+                        color: "#b061df",
+                        fontWeight: 600,
+                      }}
+                    >
+                     A portfolio based on React.
+                    </p>
+                  </h6> */}
+                  {/* <div
+                    className="project--lang"
+                    style={{
+                      background: "#fbd9ad",
+                      color: "#b061df",
+                      fontWeight: 600,
+                    }}
+                  >
+                    Javascript, Firebase
+                  </div> */}
+                </div>
+              </Fade>
+            </Col>
           </Row>
           <div className="blog--viewAll">
           <Link to="/projectspage">
