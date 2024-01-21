@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio-me/static/css/main.c46a3088.chunk.css",
+    "main.js": "/portfolio-me/static/js/main.613bb384.chunk.js",
+    "main.js.map": "/portfolio-me/static/js/main.613bb384.chunk.js.map",
+    "runtime-main.js": "/portfolio-me/static/js/runtime-main.53c2aff1.js",
+    "runtime-main.js.map": "/portfolio-me/static/js/runtime-main.53c2aff1.js.map",
+    "static/css/2.4fdc814d.chunk.css": "/portfolio-me/static/css/2.4fdc814d.chunk.css",
+    "static/js/2.136ffc33.chunk.js": "/portfolio-me/static/js/2.136ffc33.chunk.js",
+    "static/js/2.136ffc33.chunk.js.map": "/portfolio-me/static/js/2.136ffc33.chunk.js.map",
+    "static/js/3.8dd29eec.chunk.js": "/portfolio-me/static/js/3.8dd29eec.chunk.js",
+    "static/js/3.8dd29eec.chunk.js.map": "/portfolio-me/static/js/3.8dd29eec.chunk.js.map",
+    "static/js/4.022ff9da.chunk.js": "/portfolio-me/static/js/4.022ff9da.chunk.js",
+    "static/js/4.022ff9da.chunk.js.map": "/portfolio-me/static/js/4.022ff9da.chunk.js.map",
+    "index.html": "/portfolio-me/index.html",
+    "precache-manifest.0709a522b68bf979095adeb7b9057971.js": "/portfolio-me/precache-manifest.0709a522b68bf979095adeb7b9057971.js",
+    "service-worker.js": "/portfolio-me/service-worker.js",
+    "static/css/2.4fdc814d.chunk.css.map": "/portfolio-me/static/css/2.4fdc814d.chunk.css.map",
+    "static/css/main.c46a3088.chunk.css.map": "/portfolio-me/static/css/main.c46a3088.chunk.css.map",
+    "static/js/2.136ffc33.chunk.js.LICENSE.txt": "/portfolio-me/static/js/2.136ffc33.chunk.js.LICENSE.txt",
+    "static/media/Vs.19edc3fb.png": "/portfolio-me/static/media/Vs.19edc3fb.png",
+    "static/media/chorme.svg": "/portfolio-me/static/media/chorme.465d7267.svg",
+    "static/media/github.345dc4a2.png": "/portfolio-me/static/media/github.345dc4a2.png",
+    "static/media/style.css": "/portfolio-me/static/media/pre.7012d42e.svg",
+    "static/media/hd.49765c95.png": "/portfolio-me/static/media/hd.49765c95.png",
+    "static/media/nyc.ce6c36db.png": "/portfolio-me/static/media/nyc.ce6c36db.png",
+    "static/media/onboarding.542f8dee.png": "/portfolio-me/static/media/onboarding.542f8dee.png",
+    "static/media/pc.06ad21ea.png": "/portfolio-me/static/media/pc.06ad21ea.png",
+    "static/media/portfolio.adc51a67.png": "/portfolio-me/static/media/portfolio.adc51a67.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53c2aff1.js",
+    "static/css/2.4fdc814d.chunk.css",
+    "static/js/2.136ffc33.chunk.js",
+    "static/css/main.c46a3088.chunk.css",
+    "static/js/main.613bb384.chunk.js"
+  ]
+}
