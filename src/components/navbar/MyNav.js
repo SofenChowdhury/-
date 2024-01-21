@@ -198,7 +198,7 @@ export default function MyNav() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/">
+        <Navbar.Brand href="/portfolio-me">
           <div className="d-flex flex-row justify-content-between">
             <img src="./profile.png" className="img-fluid logo" alt="brand" />
             <h5
@@ -241,7 +241,7 @@ export default function MyNav() {
           <Nav className="ml-auto" defaultActiveKey="#home">
             
             <Nav.Item>
-              <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/portfolio-me" onClick={() => updateExpanded(false)}>
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
