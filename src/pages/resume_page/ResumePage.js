@@ -87,7 +87,7 @@ import React, { useState, useEffect } from "react";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-   "https://raw.githubusercontent.com/SofenChowdhury/resume/main/RMS-Resume.pdf";
+      "https://raw.githubusercontent.com/SofenChowdhury/rms-resume/main/RMS_Resume.pdf";
 
 
 function Resume() {
