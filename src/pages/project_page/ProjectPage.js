@@ -3,15 +3,15 @@ import Particle from "../../Particle";
 import { Container, Row, Col } from "react-bootstrap";
 import Zoom from "react-reveal/Zoom";
 import { Fade } from "react-reveal";
-import nyc from "../../images/nyc.png";
-import ci from "../../images/onboarding.png";
-import hd from "../../images/hd.png";
-import { Link } from 'react-router-dom';
-import eco from "../../images/portfolio1.png";
-import pp from "../../images/portfolio.png";
 // import nyc from "../../images/nyc.png";
-import ac from "../../images/academic.png";
-import age from "../../images/age.png";
+// import ci from "../../images/onboarding.png";
+// import hd from "../../images/hd.png";
+// import { Link } from 'react-router-dom';
+// import eco from "../../images/portfolio1.png";
+// import pp from "../../images/portfolio.png";
+// import nyc from "../../images/nyc.png";
+
+
 
 // import calculator from "../../images/calculator.png";
 // import calendar from "../../images/calendar.png";
