@@ -5,15 +5,15 @@ import Typing from "./Typing";
 import Tilt from "react-parallax-tilt";
 import AboutmeContainer from "../../components/aboutme/aboutmeContainer";
 import Fade from "react-reveal/Fade";
-import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
-import { FaLinkedinIn, FaFacebookF, FaGoogle } from "react-icons/fa";
-import Certification from "../../components/certificate/Certification";
+import { AiFillGithub } from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
+// import Certification from "../../components/certificate/Certification";
 import Projects from "../../components/projects/Projects";
 import Contactus from "../../components/contactus/Contactus";
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 // import Ranking from "../../components/ranking/Ranking";
 import { CgMail } from "react-icons/cg";
-import { DiFirebase } from "react-icons/di";
+// import { DiFirebase } from "react-icons/di";
 
 export default function Home() {
   return (
