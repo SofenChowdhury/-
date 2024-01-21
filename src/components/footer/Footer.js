@@ -24,10 +24,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          {/* <h3>Designed and Developed by Md Naser Bin Hossain</h3> */}
-        </Col>
-        <Col md="4" className="footer-copywright">
-          {/* <h3>Copyright © {year} Md Naser Bin Hossain</h3> */}
+          <h3>CHOWDHURY MD. RABBY MAHMUD</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -43,7 +40,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://mail.google.com/mail/u/0/#inbox"
+                href="https://mail.google.com/mail/u/0/?hl=en#inbox"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -63,28 +60,29 @@ function Footer() {
               </a>
             </li>
             <li className="socialicons">
-        <a
-          href="https://stackoverflow.com/users/5293336/sofen-chowdhury"
-          style={{ color: "white" }}
-          target="_blank"
-          rel="noreferrer"
-          
-        >
-         <FaStackOverflow/>
-        </a>
-      </li>
-      <li className="socialicons">
-        <a
-          style={{ color: "white" }}
-          href="https://www.hackerrank.com/profile/sofen_aiub"
-          rel="noreferrer"
-          
-        >
-         <FaHackerrank />
-        </a>
-      </li>
-
+              <a
+                href="https://stackoverflow.com/users/5293336/sofen-chowdhury"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noreferrer"
+                
+              >
+              <FaStackOverflow/>
+              </a>
+            </li>
+            <li className="socialicons">
+              <a
+                style={{ color: "white" }}
+                href="https://www.hackerrank.com/profile/sofen_aiub"
+                rel="noreferrer"
+              >
+              <FaHackerrank />
+              </a>
+            </li>
           </ul>
+        </Col>
+        <Col md="4" className="footer-copywright">
+          <h3>E-mail address: md.rabby.mahmud@gmail.com</h3>
         </Col>
       </Row>
     </Container>
