@@ -137,7 +137,7 @@ export default function Projects() {
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://app.ntrcaleave.xyz/"
+                          "https://ntrca-leave.vercel.app/"
                         }
                         target="_blank"
                         rel="noreferrer"
