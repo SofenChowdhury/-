@@ -183,7 +183,7 @@ export default function ProjectPage() {
                 >
                                <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                    LMS Management Sys
+                    Learning Management Sys
                     </h5>
                     <img src={"https://www.nsric.ca/./uploads/home/borologo.png"} alt={"https://www.nsric.ca/./uploads/home/borologo.png"} />
                     <div className="project--showcaseBtn">

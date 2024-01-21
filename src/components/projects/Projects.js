@@ -37,13 +37,13 @@ export default function Projects() {
                   
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                    Shah Cement
+                    Fair Mart
                     </h5>
-                    <img src={"https://www.shahcement.com/assets/images/logo.png"} alt={"https://www.shahcement.com/assets/images/logo.png"} />
+                    <img src={"https://fairgroup.s3.ap-southeast-1.amazonaws.com/public/assets/front/images/fairmartLogo.png"} alt={"https://fairgroup.s3.ap-southeast-1.amazonaws.com/public/assets/front/images/fairmartLogo.png"} />
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://www.shahcement.com/"
+                          "https://www.fairmart.com.bd/"
                         }
                         target="_blank"
                         rel="noreferrer"
@@ -58,28 +58,6 @@ export default function Projects() {
                       </a>
                     </div>
                   </div>
-                  {/* <h6>
-                    <p
-                      className="project--desc"
-                      style={{
-                        background: "#fbd9ad",
-                        color: "#b061df",
-                        fontWeight: 600,
-                      }}
-                    >
-                     A portfolio based on React.
-                    </p>
-                  </h6>
-                  <div
-                    className="project--lang"
-                    style={{
-                      background: "#fbd9ad",
-                      color: "#b061df",
-                      fontWeight: 600,
-                    }}
-                  >
-                    Javascript, Firebase
-                  </div> */}
                 </div>
               </Fade>
             </Col>
@@ -95,7 +73,7 @@ export default function Projects() {
                 >
                                <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                    LMS Management Sys
+                    Learning Management Sys
                     </h5>
                     <img src={"https://www.nsric.ca/./uploads/home/borologo.png"} alt={"https://www.nsric.ca/./uploads/home/borologo.png"} />
                     <div className="project--showcaseBtn">
