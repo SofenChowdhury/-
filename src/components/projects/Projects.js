@@ -133,7 +133,7 @@ export default function Projects() {
                     <h5 id={"first"} style={{ color: "#fbd9ad" }}>
                     Leave Management Sys
                     </h5>
-                    <img src={"https://app.ntrcaleave.xyz/assets/images/logo.jpg"} alt={"https://app.ntrcaleave.xyz/assets/images/logo.jpg"} />
+                    <img src={"https://ntrca-leave.vercel.app/assets/images/logo.jpg"} alt={"https://ntrca-leave.vercel.app/assets/images/logo.jpg"} />
                     <div className="project--showcaseBtn">
                       <a
                         href={
