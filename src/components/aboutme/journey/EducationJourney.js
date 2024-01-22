@@ -35,7 +35,7 @@ function EducationJourney() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="2019 - 2023"
+          date="2015 - 2019"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
@@ -52,7 +52,7 @@ function EducationJourney() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="2016 - 2018"
+          date="2013 - 2014"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
@@ -71,7 +71,7 @@ function EducationJourney() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="2010 - 2016"
+          date="2007 - 2012"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
@@ -82,8 +82,7 @@ function EducationJourney() {
             Sunflower School & College
           </h4>
           <p>
-            Studied here from Class 5 to 10th as a part of secondary school
-            Certificate and gain GPA 5.69 in my SSC Examination.
+            Studied here from Class 5 to 10th as a part of secondary school Certificate and gain GPA 4.69 in my SSC Examination.
           </p>
         </VerticalTimelineElement>
 
