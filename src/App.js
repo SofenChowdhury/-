@@ -45,23 +45,23 @@ function App() {
         <Routes>
           <Route path="/portfolio-me" element={<Home />}>
             <Route path="/portfolio-me" element={<About />} />
-            <Route path="personalskill" element={<PersonalSkill />} />
-            <Route path="technicalskill" element={<TechnicalSkill />} />
-            <Route path="technicaljourney" element={<TechnicalJourney />} />
-            <Route path="projectjourney" element={<ProjectJourney />} />
-            <Route path="educationjourney" element={<EducationJourney />} />
-            <Route path="experiencejourney" element={<ExperienceJourney />} />
-            <Route path="socialmedia" element={<SocialMedia />} />
-            <Route path="toolkit" element={<Toolkit />} />
+            <Route path="/personalskill" element={<PersonalSkill />} />
+            <Route path="/technicalskill" element={<TechnicalSkill />} />
+            <Route path="/technicaljourney" element={<TechnicalJourney />} />
+            <Route path="/projectjourney" element={<ProjectJourney />} />
+            <Route path="/educationjourney" element={<EducationJourney />} />
+            <Route path="/experiencejourney" element={<ExperienceJourney />} />
+            <Route path="/socialmedia" element={<SocialMedia />} />
+            <Route path="/toolkit" element={<Toolkit />} />
             {/* <Route path="ranking" element={<Ranking />} /> Add this line */}
             
             {/* <Route path="ranking" element={<Ranking />} />  */}
           </Route>
-          <Route path="/projectspage" element={<ProjectPage />} />
+          <Route path="/portfolio-me/projectspage" element={<ProjectPage />} />
           {/* <Route path="/certificatepage" element={<CertificatePage />} /> */}
-          <Route path="/resume" element={<Resume />} />
-          <Route path="/contact_page" element={<Contactus_page />} /> {/* Add this line */}
-          <Route path="/contactus" element={<Contactus />} /> 
+          <Route path="/portfolio-me/resume" element={<Resume />} />
+          <Route path="/portfolio-me/contact_page" element={<Contactus_page />} /> {/* Add this line */}
+          <Route path="/portfolio-me/contactus" element={<Contactus />} /> 
           {/* <Route path="/ranking" element={<Ranking />} />  */}
         </Routes>
         <Footer />
