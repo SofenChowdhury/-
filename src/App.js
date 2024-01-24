@@ -43,16 +43,16 @@ function App() {
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <MyNav />
         <Routes>
-          <Route path="/portfolio-me" element={<Home />}>
-            <Route path="/portfolio-me" element={<About />} />
-            <Route path="/personalskill" element={<PersonalSkill />} />
-            <Route path="/technicalskill" element={<TechnicalSkill />} />
-            <Route path="/technicaljourney" element={<TechnicalJourney />} />
-            <Route path="/projectjourney" element={<ProjectJourney />} />
-            <Route path="/educationjourney" element={<EducationJourney />} />
-            <Route path="/experiencejourney" element={<ExperienceJourney />} />
-            <Route path="/socialmedia" element={<SocialMedia />} />
-            <Route path="/toolkit" element={<Toolkit />} />
+          <Route path="/" element={<Home />}>
+            <Route path="" element={<About />} />
+            <Route path="personalskill" element={<PersonalSkill />} />
+            <Route path="technicalskill" element={<TechnicalSkill />} />
+            <Route path="technicaljourney" element={<TechnicalJourney />} />
+            <Route path="projectjourney" element={<ProjectJourney />} />
+            <Route path="educationjourney" element={<EducationJourney />} />
+            <Route path="experiencejourney" element={<ExperienceJourney />} />
+            <Route path="socialmedia" element={<SocialMedia />} />
+            <Route path="toolkit" element={<Toolkit />} />
             {/* <Route path="ranking" element={<Ranking />} /> Add this line */}
             
             {/* <Route path="ranking" element={<Ranking />} />  */}
