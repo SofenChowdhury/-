@@ -45,14 +45,14 @@ function App() {
         <Routes>
           <Route path="/portfolio-me" element={<Home />}>
             <Route path="/portfolio-me" element={<About />} />
-            <Route path="personalskill" element={<PersonalSkill />} />
-            <Route path="technicalskill" element={<TechnicalSkill />} />
-            <Route path="technicaljourney" element={<TechnicalJourney />} />
-            <Route path="projectjourney" element={<ProjectJourney />} />
-            <Route path="educationjourney" element={<EducationJourney />} />
-            <Route path="experiencejourney" element={<ExperienceJourney />} />
-            <Route path="socialmedia" element={<SocialMedia />} />
-            <Route path="toolkit" element={<Toolkit />} />
+            <Route path="/portfolio-me/personalskill" element={<PersonalSkill />} />
+            <Route path="/portfolio-me/technicalskill" element={<TechnicalSkill />} />
+            <Route path="/portfolio-me/technicaljourney" element={<TechnicalJourney />} />
+            <Route path="/portfolio-me/projectjourney" element={<ProjectJourney />} />
+            <Route path="/portfolio-me/educationjourney" element={<EducationJourney />} />
+            <Route path="/portfolio-me/experiencejourney" element={<ExperienceJourney />} />
+            <Route path="/portfolio-me/socialmedia" element={<SocialMedia />} />
+            <Route path="/portfolio-me/toolkit" element={<Toolkit />} />
             {/* <Route path="ranking" element={<Ranking />} /> Add this line */}
             
             {/* <Route path="ranking" element={<Ranking />} />  */}
