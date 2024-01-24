@@ -249,7 +249,7 @@ export default function MyNav() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/projectspage"
+                to="/portfolio-me/projectspage"
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineFundProjectionScreen
@@ -262,7 +262,7 @@ export default function MyNav() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/resume"
+                to="/portfolio-me/resume"
                 onClick={() => updateExpanded(false)}
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
@@ -282,7 +282,7 @@ export default function MyNav() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/contact_page"
+                to="/portfolio-me/contact_page"
                 onClick={() => updateExpanded(false)}
               >
                 <FaMobileAlt style={{ marginBottom: "7px" }} /> ContactMe
